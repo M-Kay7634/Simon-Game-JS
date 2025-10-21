@@ -19,3 +19,4 @@ by doing this only once -> git push -u origin main
  -> git branch //  show the list of branches and highlight the current one
  -> git checkout -b BranchName  // creates a new branch
  -> git checkout BranchName // used to move one branch to another branch (main - feature or feature to main).
+-> git checkout -d deletetest // used to delete a branch 
