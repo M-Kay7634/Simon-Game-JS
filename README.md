@@ -15,8 +15,7 @@ for command -> git push origin main
 we can replace this with command -> git push
 by doing this only once -> git push -u origin main
 
-#Branch concept
+# Branch concept
  -> git branch //  show the list of branches and highlight the current one
  -> git checkout -b BranchName  // creates a new branch
  -> git checkout BranchName // used to move one branch to another branch (main - feature or feature to main).
- 
